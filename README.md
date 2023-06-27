@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/YourKlc/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourKlc)](https://github.com/YourKlc/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourKlc&show_icons=true&theme=tokyonight)
