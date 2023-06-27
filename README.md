@@ -14,7 +14,7 @@
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/YourKlc/YourKlc/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YourKlc/YourKlc/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <!-- img alt="github-snake" src="https://raw.githubusercontent.com/YourKlc/YourKlc/main/profile-snake-contrib/github-contribution-grid-snake.svg" /-->
 </picture>
 </div>
