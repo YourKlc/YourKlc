@@ -6,7 +6,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://space.bilibili.com/98564943"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
+    <a href="https://blog.csdn.net/k_l_c_?type=blog"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
     <!-- a href="https://www.zhihu.com/people// --"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=YourKlc&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
